@@ -8,3 +8,5 @@ tensorflow
 joblib
 streamlit
 soundfile
+twilio
+streamlit-javascript
