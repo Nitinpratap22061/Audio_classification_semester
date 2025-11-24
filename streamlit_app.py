@@ -178,4 +178,3 @@ else:
 
 st.markdown("---")
 
-is in this code can we do in message location of detection also send 
